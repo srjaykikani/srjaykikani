@@ -2,9 +2,4 @@
 
 # Hey, I'm srjaykikani
 
-- Passionate about coding and exploring new tech.
 - Love building clean, efficient solutions.
-
-### GitHub Stats
-![srjaykikani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srjaykikani&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srjaykikani&layout=compact&theme=tokyonight)
