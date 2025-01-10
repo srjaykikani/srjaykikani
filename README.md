@@ -1,11 +1,9 @@
 <!-- Minimalist and simple README.md for srjaykikani -->
 
-# Hey, I'm srjaykikani
+# Hello! I'm S R Jay Kikani 👋
 
-- Love building clean, efficient solutions.
+Founder @ visitcards. TypeScript lover. Dotfiles enthusiast.
 
-
-![](https://komarev.com/ghpvc/?username=srjaykikani&label=PROFILE+VIEWS)
 
 
 
