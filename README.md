@@ -2,8 +2,7 @@
 
 # Hello! I'm S R Jay Kikani 👋
 
-Founder @ visitcards. TypeScript lover. Dotfiles enthusiast.
-
+Founder @ visitcards. TypeScript lover. 
 
 
 
