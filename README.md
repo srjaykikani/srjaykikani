@@ -2,4 +2,4 @@
 
 # Hello! I'm S R Jay Kikani 👋
 
-Founder @ visitcards. TypeScript lover. 
+Building @challengerate. TypeScript lover. 
